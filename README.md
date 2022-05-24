@@ -2,7 +2,7 @@
 - 👀 I’m interested in travelling,drawing,reading novel and listening to music.
 - 🌱 I’m currently learning coding and CompTIA A+.
 - 💞️ I’m looking to collaborate on making my own games and working on how fix the internet.
-- 📫 How to reach me you can reach me on Instagram: @assiatu_kabba_, Facebook: Assiatu Kabba.
+- 📫 How to reach me you can reach me on Instagram: @assiatu_kabba_, Facebook: Assiatu Kabba, Gmail:assiatukabba1@gmail.com.
 
 <!---
 AssiatuKabba/AssiatuKabba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
